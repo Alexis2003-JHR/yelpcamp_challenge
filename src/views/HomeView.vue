@@ -100,8 +100,16 @@ li{
   height: 60px;
   border-radius: 8px;
 }
+.view-button :hover{
+  cursor: pointer;
+  box-shadow: 2px 3px 0 0 #000;
+  transition: .5s;
+}
 .view-button h3{
   font-weight: 500;
   color: #fff;
 }
+
+/*RESPONSIVE*/
+
 </style>
